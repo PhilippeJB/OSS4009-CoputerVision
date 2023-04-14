@@ -1,4 +1,4 @@
-# OSS4009CoputerVision
+# OSS4009 CoputerVision
 Dangerous and suspicious human pose detection using skeleton pose
 
 Institution: Carleton University
